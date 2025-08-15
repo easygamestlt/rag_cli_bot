@@ -1,0 +1,8 @@
+ollama
+qdrant-client
+beautifulsoup4
+lxml
+html2text
+requests
+pyTelegramBotAPI
+numpy
